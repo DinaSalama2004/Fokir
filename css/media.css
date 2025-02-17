@@ -4,6 +4,7 @@
     .container{
 
         width: 85% !important;
+        background-color:red;
     }
     .sm-100{
         width: 100% !important;
