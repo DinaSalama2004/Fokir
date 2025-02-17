@@ -8,7 +8,8 @@ html{
 body{
     font-weight: 400;
     font-family: "Roboto", serif;
-
+    overflow-x: hidden; 
+    width: 100%;
 }
 :root{
 
