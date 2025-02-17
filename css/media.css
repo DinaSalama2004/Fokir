@@ -3,14 +3,14 @@
 
     .container{
 
-        width: 85% !important;
-        background-color:red;
+        width: 90% !important;
+       
     }
     .sm-100{
         width: 100% !important;
     }
     html{
-        font-size: 40px;
+        font-size: 20px;
     }
 
 
